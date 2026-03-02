@@ -9,17 +9,15 @@ _Backend engineer who loves solving problems with elegant code, scalable systems
 
 ## 🚀 What I do
 
-- **Design & develop** Go and NestJS microservices that power real‑world applications
-- **Containerize & orchestrate** with Docker, Helm, and Kubernetes (clusters both on‑prem and cloud)
-- **Automate** through GitLab CI/CD pipelines, complete with automated tests and safe rollouts
-- **Observe & troubleshoot** using metrics, tracing, and centralized logging
-- **Migrate** monoliths to distributed systems with minimal downtime
-
-> _Skill ratings below are illustrative — tweak them to reflect your experience!_
+- **Build** backend services with Go, .NET and NestJS — APIs that keep things running behind the scenes.
+- **Package & deploy** code using Docker and Kubernetes, from a single container to a full cluster.
+- **Automate** testing and delivery through GitLab pipelines so releases happen smoothly.
+- **Watch over** applications with metrics and logs so issues are found before users complain.
+- **Break apart monoliths** and roll out microservices without taking the system offline.
 
 ## 📊 Skills at a glance
 
-![Go 85](https://img.shields.io/badge/Go-85%25-brightgreen) ![Dotnet 78](https://img.shields.io/badge/.NET-78%25-blue) ![NestJS 72](https://img.shields.io/badge/NestJS-72%25-red) ![Docker 80](https://img.shields.io/badge/Docker-80%25-2496ED) ![K8s 79](https://img.shields.io/badge/Kubernetes-79%25-326CE5) ![CI/CD 82](https://img.shields.io/badge/GitLab_CI-82%25-orange)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?logo=gitlab&logoColor=white)
 
 
 ## 🛠️ Tooling & Practices
