@@ -30,8 +30,6 @@ _Backend engineer who loves solving problems with elegant code, scalable systems
 
 ---
 
----
-
 ## 📫 Let's connect
 
 - ✉️ Email: kaazab35@gmail.com
