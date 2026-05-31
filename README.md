@@ -1,8 +1,6 @@
 
 # 👋 Hello! I'm Kareem Azab
 
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) ![Dotnet](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?logo=gitlab&logoColor=white) ![Microservices](https://img.shields.io/badge/Microservices-8A2BE2?logo=microstrategy&logoColor=white)
-
 _Backend engineer who loves solving problems with elegant code, scalable systems, and a little ☕ in hand. I build and run microservices, craft APIs, design event-driven architectures, and think deeply about CI/CD pipelines and containerized deployments._
 
 ---
@@ -17,8 +15,8 @@ _Backend engineer who loves solving problems with elegant code, scalable systems
 
 ## 📊 Skills at a glance
 
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?logo=gitlab&logoColor=white)
 
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) ![Dotnet](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?logo=gitlab&logoColor=white) ![Microservices](https://img.shields.io/badge/Microservices-8A2BE2?logo=microstrategy&logoColor=white)
 
 ## 🛠️ Tooling & Practices
 
